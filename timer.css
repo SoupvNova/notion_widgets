@@ -4,7 +4,7 @@
 
 body {
   font-family: 'Roboto Mono', monospace;
-  background-color: #191919;
+  background-color: #0;
 }
 
 #root {
@@ -48,7 +48,7 @@ button:focus {
 
 #time-left {
   font-size: 70px;
-  font-color: #ffffff;
+  color: #ffffff;
   text-align: center;
   background-color: rgb(41,21,139);
   padding: 20px;
@@ -66,7 +66,7 @@ button:focus {
 
 #timer-label {
   font-size: 25px;
-  font-color: #ffffff;
+  color: #ffffff;
   text-align: center;
   padding-top: 2px;
   background-color: rgb(41,21,139);
