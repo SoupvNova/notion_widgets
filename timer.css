@@ -66,6 +66,7 @@ button:focus {
 
 #timer-label {
   font-size: 25px;
+  font-color: #ffffff;
   text-align: center;
   padding-top: 2px;
   background-color: rgb(41,21,139);
